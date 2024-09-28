@@ -5,7 +5,7 @@
     </p>
 <h1 align="center">Hi there👋 Welcome! I'm <a href="https://mariazucenacr.github.io/">Mariazucena</a></h1>
 <h3>About Me</h3>
-<p>I'm a Bachelor's degree in Computer Systems Engineering.I am a programmer interested in front end creation in JavaScript frameworks such as React.js, Vue.js, Nuxt.js, etc. In addition to creating websites in Wordpress and analyzing plugins in PHP. I continue to update myself and study the different languages ​​and AI tools.</p>
+<p>I'm a Bachelor's degree in Computer Systems Engineering.I am a programmer interested in front end creation in JavaScript frameworks such as React.js, Vue.js, Nuxt.js, etc. In addition to creating websites in Wordpress and analyzing plugins in PHP. I continue to update myself and study the different programming languages ​​and AI tools.</p>
 
 <h3>Contact Me</h3>
 
